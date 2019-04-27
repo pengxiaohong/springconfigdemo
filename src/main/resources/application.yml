@@ -6,4 +6,5 @@ spring:
       server:
         git:
           uri: https://gitee.com/heklo/spring_clou_configuration.git
+          search-paths: /**
           default-label: master
