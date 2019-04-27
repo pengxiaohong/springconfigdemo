@@ -7,5 +7,3 @@ spring:
         git:
           uri: https://gitee.com/heklo/spring_clou_configuration.git
           default-label: master
-  application:
-    name: configServer
