@@ -6,6 +6,7 @@ spring:
       server:
         git:
           uri: https://github.com/pengxiaohong/springconfigdemo
+          search-paths: /**
           default-label: master
           username: 2914506172@qq.com
           password: www14159
