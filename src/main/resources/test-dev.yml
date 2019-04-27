@@ -1,5 +1,0 @@
-jdbc:
-  mysql:
-    driver: com.jdbc.mysql
-test:
-  name: lisi
