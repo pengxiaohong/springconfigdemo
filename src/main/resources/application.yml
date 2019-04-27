@@ -10,6 +10,5 @@ spring:
           default-label: master
           username: 2914506172@qq.com
           password: www14159
-      name: test
   application:
     name: configServer
